@@ -8,7 +8,7 @@
 •
 [Metager Tor](http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion/)
 
-[Searx (Disroot)](https://search.disroot.org/) &middot; [Searx (Honigachse)](https://suche.honigdachse.de/)
+[Searx (Disroot)](https://search.disroot.org/) • [Searx (Honigachse)](https://suche.honigdachse.de/)
 
 [Startpage](https://www.startpage.com/)
 
