@@ -24,7 +24,9 @@
 
 ## Übersetzung
 
-👥 [DeepL](https://www.deepl.com/translator-mobile)
+[DeepL](https://www.deepl.com/translator-mobile)
+
+[Lingva](https://lingva.ml/)
 
 ## Privacy
 
