@@ -43,3 +43,7 @@
 [Openmoji](https://openmoji.org/)
 
 [Iconduck 🕵️](https://iconduck.com/)
+
+## Karten
+
+[Köln: Veedelkarte](https://www.stadt-koeln.de/artikel/68982/index.html) Ebenen: Stadt-Viertel, -Teil, -Bezirk, -Postleitzahlgebiet.
